@@ -18,7 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae80389-28b9-4e82-8032-f4e417606857" name="Changes" comment="" />
+    <list default="true" id="7ae80389-28b9-4e82-8032-f4e417606857" name="Changes" comment="format specifiers">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.ArithmeticOperation.c.executor": "Run",
     "C/C++ File.FormatSpecifier.c.executor": "Run",
     "C/C++ File.HelloWorld.c (1).executor": "Run",
     "C/C++ File.HelloWorld.c.executor": "Run",
@@ -72,10 +75,11 @@
       <recent name="$PROJECT_DIR$/datatypes" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.FormatSpecifier.c">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="C/C++ File.ArithmeticOperation.c">
+    <configuration name="ArithmeticOperation.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c-language" TARGET_NAME="ArithmeticOperation.c" CONFIG_NAME="ArithmeticOperation.c">
+      <option name="sourceFile" value="arithmeticOperations/ArithmeticOperation.c" />
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="FormatSpecifier.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c-language" TARGET_NAME="FormatSpecifier.c" CONFIG_NAME="FormatSpecifier.c">
@@ -104,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.ArithmeticOperation.c" />
         <item itemvalue="C/C++ File.FormatSpecifier.c" />
         <item itemvalue="C/C++ File.HelloWorld.c (1)" />
         <item itemvalue="C/C++ File.HelloWorld.c" />
@@ -120,7 +125,17 @@
       <updated>1708779335350</updated>
       <workItem from="1708779336537" duration="4096000" />
       <workItem from="1708786002153" duration="947000" />
+      <workItem from="1708786953102" duration="1256000" />
     </task>
+    <task id="LOCAL-00001" summary="format specifiers">
+      <option name="closed" value="true" />
+      <created>1708786975282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708786975282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,5 +145,9 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="format specifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="format specifiers" />
   </component>
 </project>
