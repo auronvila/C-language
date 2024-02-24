@@ -18,7 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae80389-28b9-4e82-8032-f4e417606857" name="Changes" comment="format specifiers">
+    <list default="true" id="7ae80389-28b9-4e82-8032-f4e417606857" name="Changes" comment="arithmetic operations in C">
+      <change afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userInput/UserInput.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +44,16 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2coYKOGMnA9vyyTH0hbNJYYv2oU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "C/C++ File.ArithmeticOperation.c.executor": "Run",
     "C/C++ File.FormatSpecifier.c.executor": "Run",
     "C/C++ File.HelloWorld.c (1).executor": "Run",
@@ -60,7 +66,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/auronvila/Desktop/desktop/projects/c-language",
+    "last_opened_file_path": "/Users/auronvila/Desktop/desktop/projects/c-language/userInput",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +77,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/userInput" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/datatypes" />
     </key>
@@ -126,6 +135,7 @@
       <workItem from="1708779336537" duration="4096000" />
       <workItem from="1708786002153" duration="947000" />
       <workItem from="1708786953102" duration="1256000" />
+      <workItem from="1708800394439" duration="1000000" />
     </task>
     <task id="LOCAL-00001" summary="format specifiers">
       <option name="closed" value="true" />
@@ -135,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708786975282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="arithmetic operations in C">
+      <option name="closed" value="true" />
+      <created>1708800419898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708800419898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +165,9 @@
     <isAutomaticReloadCMake value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="format specifiers" />
-    <option name="LAST_COMMIT_MESSAGE" value="format specifiers" />
+    <MESSAGE value="arithmetic operations in C" />
+    <option name="LAST_COMMIT_MESSAGE" value="arithmetic operations in C" />
   </component>
 </project>
