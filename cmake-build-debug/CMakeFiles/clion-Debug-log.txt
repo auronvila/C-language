@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/auronvila/Desktop/desktop/projects/c-language Select CMakeLists.txt

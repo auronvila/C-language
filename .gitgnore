@@ -1,6 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/clion,c
-# Edit at https://www.toptal.com/developers/gitignore?templates=clion,c
-
 ### C ###
 # Prerequisites
 *.d
@@ -39,6 +36,8 @@
 *.i*86
 *.x86_64
 *.hex
+
+.idea
 
 # Debug files
 *.dSYM/
@@ -167,5 +166,3 @@ fabric.properties
 # Azure Toolkit for IntelliJ plugin
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
-
-# End of https://www.toptal.com/developers/gitignore/api/clion,c
